@@ -3,9 +3,9 @@ module namebench
 go 1.23.1
 
 require (
-	github.com/Cellularhacker/apiError-go v0.0.3
+	github.com/Cellularhacker/apiError-go v0.0.4
 	github.com/Cellularhacker/apiHandler-gin-go v1.0.2
-	github.com/Cellularhacker/core-go v1.0.7
+	github.com/Cellularhacker/core-go v1.0.8
 	github.com/Cellularhacker/logger-go v1.0.4
 	github.com/Cellularhacker/util-go v0.0.8
 	github.com/goccy/go-json v0.10.3
@@ -15,7 +15,6 @@ require (
 )
 
 require (
-	github.com/Cellularhacker/logger v1.0.3 // indirect
 	github.com/bytedance/sonic v1.12.3 // indirect
 	github.com/bytedance/sonic/loader v0.2.0 // indirect
 	github.com/cloudwego/base64x v0.1.4 // indirect
