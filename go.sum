@@ -8,8 +8,8 @@ github.com/Cellularhacker/logger v1.0.3 h1:RZkTMWUeIFQME7jCuRZS9jvUYBO/Y4MP5HDgZ
 github.com/Cellularhacker/logger v1.0.3/go.mod h1:NvC5fM/fFWkT+MLgWXpMQhW4oHyZbVz631VRSi44g9o=
 github.com/Cellularhacker/logger-go v1.0.4 h1:zF4fjkrvKGOB3IOZ6+H7PIbqShXl3o+F/1iMONRhkAw=
 github.com/Cellularhacker/logger-go v1.0.4/go.mod h1:bC3QFDkIg9xsgXisy9Cjc3OTAvOG4VVbWSiS3SQUgLs=
-github.com/Cellularhacker/util-go v0.0.8 h1:/NciHDFhFkt5zuc5n6Yqt8i/mM2UBcasw7pQSoHTMqw=
-github.com/Cellularhacker/util-go v0.0.8/go.mod h1:TREddBDUbLsbxIVOTlsqBeUEbhNWjR8hjWG7xUfxJ+o=
+github.com/Cellularhacker/util-go v0.0.10 h1:/QU9VdvoAFCC12U4IvFmwSS/OGKa85nG80SdWrrVfXM=
+github.com/Cellularhacker/util-go v0.0.10/go.mod h1:/+wl0exhCydFCo9gxb5Qw8oYYCcx91i4bGMbh2ShRr8=
 github.com/bytedance/sonic v1.12.3 h1:W2MGa7RCU1QTeYRTPE3+88mVC0yXmsRQRChiyVocVjU=
 github.com/bytedance/sonic v1.12.3/go.mod h1:B8Gt/XvtZ3Fqj+iSKMypzymZxw/FVwgIGKzMzT9r/rk=
 github.com/bytedance/sonic/loader v0.1.1/go.mod h1:ncP89zfokxS5LZrJxl5z0UJcsk4M4yY2JpfqGeCtNLU=
