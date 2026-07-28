@@ -1,12 +1,12 @@
 module namebench
 
-go 1.23.1
+go 1.25
 
 require (
 	github.com/Cellularhacker/apiError-go v0.0.3
 	github.com/Cellularhacker/apiHandler-gin-go v1.0.2
 	github.com/Cellularhacker/core-go v1.0.7
-	github.com/Cellularhacker/logger-go v1.0.4
+	github.com/Cellularhacker/logger-go v1.0.10
 	github.com/Cellularhacker/util-go v0.0.8
 	github.com/goccy/go-json v0.10.3
 	github.com/mattn/go-sqlite3 v1.14.23
@@ -36,16 +36,16 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/onsi/ginkgo v1.16.5 // indirect
 	github.com/pelletier/go-toml/v2 v2.2.3 // indirect
-	github.com/sirupsen/logrus v1.9.3 // indirect
+	github.com/sirupsen/logrus v1.9.4 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.2.12 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	go.uber.org/zap v1.27.0 // indirect
+	go.uber.org/zap v1.28.0 // indirect
 	golang.org/x/arch v0.10.0 // indirect
 	golang.org/x/crypto v0.27.0 // indirect
 	golang.org/x/mod v0.21.0 // indirect
 	golang.org/x/sync v0.8.0 // indirect
-	golang.org/x/sys v0.25.0 // indirect
+	golang.org/x/sys v0.39.0 // indirect
 	golang.org/x/text v0.18.0 // indirect
 	golang.org/x/tools v0.25.0 // indirect
 	google.golang.org/protobuf v1.34.2 // indirect
