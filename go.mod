@@ -8,7 +8,7 @@ require (
 	github.com/Cellularhacker/core-go v1.0.7
 	github.com/Cellularhacker/logger-go v1.0.4
 	github.com/Cellularhacker/util-go v0.0.8
-	github.com/goccy/go-json v0.10.3
+	github.com/goccy/go-json v0.10.6
 	github.com/mattn/go-sqlite3 v1.14.23
 	github.com/miekg/dns v1.1.62
 	golang.org/x/net v0.29.0
